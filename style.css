@@ -7,6 +7,8 @@
     height: 100%;  
   }
   
+  
+
   body {
     min-height: 100%;  
     background: #eee;
@@ -110,7 +112,7 @@
     }
     
     .right {
-      tex-align: right;
+      text-align: right;
       width: 39%;    
     }
     
@@ -129,9 +131,7 @@
       color: #000;
     }
     
-    .skills {
-      
-    }
+    
       
     .skills__item {
       margin-bottom: 10px;  
@@ -153,6 +153,11 @@
       
       input:checked + label {
         background: #79A9CE;
+
+        .schoolpic{
+          position:absolute
+          float right;
+        }
       }
     }
   }
