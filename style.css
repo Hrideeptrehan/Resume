@@ -41,11 +41,11 @@
     }
     
     .first-name {
-      font-weight: 700;
+      font-weight: 500;
     }
     
     .last-name {
-      font-weight: 300;
+      font-weight: 500;
     }
     
     .contact-info {
@@ -161,4 +161,13 @@
       }
     }
   }
+
   
+.schoolpic{
+  position: relative; 
+  width: 0.5em;
+  top:80%;
+  left: 40%;
+  
+  
+}
