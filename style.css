@@ -168,7 +168,7 @@
 .center-image{
   position: relative; 
   
-  top:95%;
+  top:75%;
   left: 45%;
   
   
@@ -181,7 +181,7 @@
   padding: 10px;
  position:relative;
  top:70%;
- left:70%;
+ left:45%;
  width:200px;
  height:65
 }
