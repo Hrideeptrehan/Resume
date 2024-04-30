@@ -168,7 +168,7 @@
 .center-image{
   position: relative; 
   
-  top:120%;
+  top:85%;
   left: 40%;
   
   
@@ -180,8 +180,8 @@
   border-radius: 10px;
   padding: 10px;
  position:relative;
- top:675px;
- left:200px;
+ top:650px;
+ left:300px;
  width:200px;
  height:65
 }
